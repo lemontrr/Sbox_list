@@ -1,0 +1,3 @@
+install_requires=[
+   'Sbox_list>=3'
+]
